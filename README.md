@@ -6,7 +6,7 @@
       <!-- Left: Typing intro -->
       <td align="center" width="70%" valign="middle">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=100&color=00bcd4&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&duration=3000&pause=100&color=8E44AD&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
