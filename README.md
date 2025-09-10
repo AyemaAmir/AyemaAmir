@@ -1,12 +1,23 @@
-<p align="center">
-  <!-- Left: Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00bcd4&center=false&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Ayema+Amir;Data+Scientist;AI+and+Machine+Learning+Enthusiast;Turning+data+into+actionable+insights" alt="Typing SVG" />
-  </a>
+<div align="center">
 
-  <!-- Right: Coding GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="160px" alt="Coding GIF" align="right">
-</p>
+  <!-- Box with animated typing and GIF -->
+  <table>
+    <tr>
+      <!-- Left: Typing intro -->
+      <td>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=600&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics+to+solve+real-world+problems." alt="Typing SVG" />
+        </a>
+      </td>
+      <!-- Right: GIF -->
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180px" alt="Coding GIF">
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 
