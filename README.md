@@ -53,18 +53,14 @@ Machine learning models + statistical tests to predict severity, mortality, and 
 🚑 **Smart Health Emergency System**  
 AI-powered triage engine, optimal ambulance routing, and clinical dashboard for emergency healthcare (Python + Streamlit).  
 
-📊 **HR Analytics Dashboard**  
-End-to-end pipeline using Python, SQL views, and Power BI to analyze employee performance, attrition, and demographics.  
+🌍 **The BRI in National Peripheries: Gwadar & Outsourced Development**  
+A Power BI project analyzing **905 development projects** across Balochistan and Gwadar under the Belt & Road Initiative (BRI). Built with **Python (data preprocessing), Power BI (data modeling), and DAX (advanced KPIs)**, it highlights budget allocation, utilization, regional equity, and the role of foreign aid in development.  
 
+📚 **Data-Driven Analysis of Pakistan’s Education Sector (SDG4)**  
+An in-depth study of Pakistan’s education landscape (2010–2023) aligned with **UN Sustainable Development Goal 4: Quality Education**. Using **Python (Pandas, SciPy, Seaborn, Plotly)**, this project explores trends, disparities, and the relationship between infrastructure, gender parity, and educational outcomes.  
 
-## 📈 GitHub Stats  
-
-![Ayema's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyemaAmir&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyemaAmir&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyemaAmir&theme=radical)  
-
+🔋 **Accelerating Pakistan’s Clean Energy Transformation**  
+A collaborative project analyzing **12 years of Pakistan’s power generation data (2012–2024)** to track the shift from non-renewable to renewable energy. Built with **Python (SARIMA forecasting)** and **Power BI dashboards**, it highlights solar growth, renewable adoption, and CO₂ emission reductions in alignment with SDG Goal 7.  
 
 ## 🌐 Let’s Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/ayema-amir/) | 📧 **ayemaamir7@gmail.com**  
