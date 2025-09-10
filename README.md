@@ -1,7 +1,5 @@
+![Hi, I'm Ayema Amir](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 <p align="center">
-  <img src="https://github.com/AyemaAmir/AyemaAmir/blob/main/assets/coder-gif.gif" width="400" />
-  <img src="https://github.com/AyemaAmir/AyemaAmir/blob/main/assets/ayema_intro_stylish.gif" width="400" />
-</p>
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
@@ -52,6 +50,6 @@ End-to-end pipeline using Python, SQL views, and Power BI to analyze employee pe
 
 
 ## 🌐 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/ayema-amir/) | 📧 **ayema.amir@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/ayema-amir/) | 📧 **ayemaamir7@gmail.com**  
 
 ✨ *Let’s collaborate and build data-driven solutions that create real business impact!*  
