@@ -1,5 +1,15 @@
 ![Hi, I'm Ayema Amir](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 <p align="center">
+<div align="center">
+  <img src="your_gif_link.gif" width="200px" style="border-radius:10px;"/>
+
+  <div>
+    <h2>👋 Hi, I'm Ayema Amir</h2>
+    <p>💡 A passionate Data Scientist who loves turning raw data into actionable insights.</p>
+    <p>📊 Exploring AI, Machine Learning & Analytics to solve real-world problems.</p>
+  </div>
+</div>
+
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
