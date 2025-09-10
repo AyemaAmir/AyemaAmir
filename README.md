@@ -7,7 +7,7 @@
       <td align="center" width="70%" valign="top">
         <br><br> <!-- pushes text a little lower for balance -->
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00bcd4&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
@@ -18,9 +18,6 @@
   </table>
 
 </div>
-
-
-
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
 My expertise lies in **predictive modeling, data visualization, and business intelligence** — bridging the gap between data and decision-making.  
