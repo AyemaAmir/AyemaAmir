@@ -7,8 +7,7 @@
   <!-- Right: Coding GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="160px" alt="Coding GIF" align="right">
 </p>
-
-
+</div>
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
