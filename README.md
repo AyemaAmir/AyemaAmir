@@ -16,8 +16,8 @@
       </td>
     </tr>
   </table>
-</div>
 
+</div>
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
 My expertise lies in **predictive modeling, data visualization, and business intelligence** — bridging the gap between data and decision-making.  
