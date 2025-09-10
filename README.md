@@ -63,6 +63,6 @@ An in-depth study of Pakistan’s education landscape (2010–2023) aligned with
 A collaborative project analyzing **12 years of Pakistan’s power generation data (2012–2024)** to track the shift from non-renewable to renewable energy. Built with **Python (SARIMA forecasting)** and **Power BI dashboards**, it highlights solar growth, renewable adoption, and CO₂ emission reductions in alignment with SDG Goal 7.  
 
 ## 🌐 Let’s Connect  
-💼 [LinkedIn]([https://www.linkedin.com/in/ayema-amir/](https://www.linkedin.com/in/ayema-amir-537b2a320/) | 📧 **ayemaamir7@gmail.com**  
+💼 [LinkedIn]([https://www.linkedin.com/in/ayema-amir/](https://www.linkedin.com/in/ayema-amir-537b2a320/)) | 📧 **ayemaamir7@gmail.com**  
 
 ✨ *Let’s collaborate and build data-driven solutions that create real business impact!*  
