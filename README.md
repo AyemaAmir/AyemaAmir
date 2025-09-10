@@ -1,26 +1,25 @@
 <div align="center">
 
-  <!-- Box with animated typing and GIF -->
+  <!-- Profile Intro Box -->
+  <div style="border: 2px solid #00bcd4; border-radius: 15px; padding: 25px; width: 90%; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
   <table>
     <tr>
       <!-- Left: Typing intro -->
       <td>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=600&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=700&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="180px" alt="Coding GIF">
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="220px" alt="Coding GIF">
       </td>
     </tr>
   </table>
 
+  </div>
 </div>
-
-
-
-
 
 
 
