@@ -1,11 +1,13 @@
-# Hi there! 👋 I'm Ayema Amir
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="160px" alt="Coding GIF">
-  
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00bcd4&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+and+Machine+Learning+Enthusiast;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
+  <!-- Left: Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00bcd4&center=false&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Ayema+Amir;Data+Scientist;AI+and+Machine+Learning+Enthusiast;Turning+data+into+actionable+insights" alt="Typing SVG" />
+  </a>
+
+  <!-- Right: Coding GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="160px" alt="Coding GIF" align="right">
 </p>
+
 
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
