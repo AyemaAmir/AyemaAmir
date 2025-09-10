@@ -1,13 +1,12 @@
 <div align="center">
 
   <!-- Bigger Intro Banner -->
-  <table width="100%" height="400px" style="border: 3px solid #00bcd4; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.2); background-color: #f9f9f9;">
+  <table width="100%" style="border: 3px solid #00bcd4; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.2); background-color: #f9f9f9; margin-bottom: 20px;">
     <tr>
       <!-- Left: Typing intro -->
-      <td align="center" width="70%" valign="top">
-        <br><br> <!-- pushes text a little lower for balance -->
+      <td align="center" width="70%" valign="middle">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00bcd4&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=100&color=00bcd4&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
@@ -19,7 +18,7 @@
 
 </div>
 
-🎯 **Looking for a Data Scientist? You’re at the right place!**  
+🎯 **Looking for a Data Scientist? You’re at the right place!** 
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
 My expertise lies in **predictive modeling, data visualization, and business intelligence** — bridging the gap between data and decision-making.  
 
