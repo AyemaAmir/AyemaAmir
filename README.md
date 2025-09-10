@@ -1,11 +1,26 @@
-![Hi, I'm Ayema Amir](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300px"/>
-  &nbsp;&nbsp;
-  <img src="ayema_text_intro_emojis.gif" width="420px"/>
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
+👋 Hi, I'm <span style="color:#00AEEF; font-weight:bold;">Ayema Amir</span>  
+💡 A passionate <span style="color:#00AEEF; font-weight:bold;">Data Scientist</span>  
+who loves turning raw data into actionable insights.  
+
+📊 Exploring <span style="color:#00AEEF; font-weight:bold;">AI, Machine Learning & Analytics</span>  
+to solve real-world problems.  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
