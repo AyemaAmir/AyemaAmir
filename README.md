@@ -1,26 +1,22 @@
 <div align="center">
 
-  <!-- Profile Intro Box -->
-  <div style="border: 2px solid #00bcd4; border-radius: 15px; padding: 25px; width: 90%; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-
-  <table>
+  <!-- Big Intro Banner -->
+  <table width="100%" height="300px" style="border: 3px solid #00bcd4; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.2); background-color: #f9f9f9;">
     <tr>
       <!-- Left: Typing intro -->
-      <td>
+      <td align="center" width="70%">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=700&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00bcd4&multiline=true&repeat=false&width=1000&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data+into+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="220px" alt="Coding GIF">
+      <td align="center" width="30%">
+        <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280px" alt="Coding GIF">
       </td>
     </tr>
   </table>
 
-  </div>
 </div>
-
 
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
