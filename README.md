@@ -1,18 +1,11 @@
-<div align="center">
+# Hi there! 👋 I'm Ayema Amir
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-👋 Hi, I'm <span style="color:#00AEEF; font-weight:bold;">Ayema Amir</span>  
-💡 A passionate <span style="color:#00AEEF; font-weight:bold;">Data Scientist</span>  
-who loves turning raw data into actionable insights.  
-
-📊 Exploring <span style="color:#00AEEF; font-weight:bold;">AI, Machine Learning & Analytics</span>  
-to solve real-world problems.  
-
-</td>
-<td width="40%" align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="160px" alt="Coding GIF">
+  
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00bcd4&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+and+Machine+Learning+Enthusiast;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
 
