@@ -7,13 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00bcd4&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+and+Machine+Learning+Enthusiast;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
-
-</td>
-</tr>
-</table>
-
-</div>
 
 🎯 **Looking for a Data Scientist? You’re at the right place!**  
 I’m an aspiring **Data Scientist & Analytics Professional** passionate about transforming raw data into **actionable insights**.  
