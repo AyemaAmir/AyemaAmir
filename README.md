@@ -6,7 +6,7 @@
       <!-- Left: Typing intro -->
       <td align="center" width="70%" valign="middle">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&duration=3000&pause=100&color=8E44AD&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&duration=3000&pause=300&color=8E44AD&multiline=true&repeat=false&width=1000&height=200&lines=👋+Hi,+I'm+Ayema+Amir;💡+A+passionate+Data+Scientist+who+loves+turning+raw+data;+into+meaningful+insights.;📊+Exploring+AI,+Machine+Learning+%26+Analytics;+to+solve+real-world+problems." alt="Typing SVG" />
         </a>
       </td>
       <!-- Right: GIF -->
@@ -63,6 +63,6 @@ An in-depth study of Pakistan’s education landscape (2010–2023) aligned with
 A collaborative project analyzing **12 years of Pakistan’s power generation data (2012–2024)** to track the shift from non-renewable to renewable energy. Built with **Python (SARIMA forecasting)** and **Power BI dashboards**, it highlights solar growth, renewable adoption, and CO₂ emission reductions in alignment with SDG Goal 7.  
 
 ## 🌐 Let’s Connect  
-💼 [LinkedIn]([https://www.linkedin.com/in/ayema-amir/](https://www.linkedin.com/in/ayema-amir-537b2a320/)) | 📧 **ayemaamir7@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/ayema-amir-537b2a320/) | 📧 **ayemaamir7@gmail.com**  
 
 ✨ *Let’s collaborate and build data-driven solutions that create real business impact!*  
