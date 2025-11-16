@@ -45,7 +45,7 @@ My expertise lies in **predictive modeling, data visualization, and business int
 `Prophet Forecasting` | `SARIMA`
 
 **Databases & Tools**  
-`SQL Server` | `caret` | `nnet` | `MASS`  
+`SQL Server` | `Power BI` | `Winforms`
 
 
 ## 📌 Highlight Projects  
