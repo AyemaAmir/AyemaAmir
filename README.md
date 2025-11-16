@@ -36,10 +36,13 @@ My expertise lies in **predictive modeling, data visualization, and business int
 `Python` | `R` | `SQL` | `C#` | `C++` | `Excel`  
 
 **Data Analysis & Visualization**  
-`Pandas` | `NumPy` | `ggplot2` | `plotly` | `Power BI` | `Streamlit` | `Shiny`  
+`Pandas` | `NumPy` | `ggplot2` | `plotly` | `Power BI` | `Streamlit` | `Shiny`  | `Matplotlib` | `Seaborn` | `Tensorflow` | `Sklearn`
 
 **Machine Learning & AI**  
-`Prophet Forecasting` | `Random Forest` | `Logistic Regression` | `Clustering` | `Fuzzy Logic` | `A* Algorithm`  
+`Random Forest` | `Logistic Regression` | `Clustering` | `Fuzzy Logic` | `A* Algorithm` | `Linear Regression` | `K-Means Clustering`
+
+**Time Series** 
+`Prophet Forecasting` | `SARIMA`
 
 **Databases & Tools**  
 `SQL Server` | `caret` | `nnet` | `MASS`  
