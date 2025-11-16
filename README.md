@@ -41,7 +41,7 @@ My expertise lies in **predictive modeling, data visualization, and business int
 **Machine Learning & AI**  
 `Random Forest` | `Logistic Regression` | `Clustering` | `Fuzzy Logic` | `A* Algorithm` | `Linear Regression` | `K-Means Clustering`
 
-**Time Series** 
+**Time Series**  
 `Prophet Forecasting` | `SARIMA`
 
 **Databases & Tools**  
